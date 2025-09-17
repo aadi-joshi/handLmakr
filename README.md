@@ -480,7 +480,7 @@ plt.plot(torch.tensor(lossi).view(-1, 1000).mean(1))
 
 
     
-![png](README_files/README_19_1.png)
+![png](plot.png)
     
 
 
@@ -561,3 +561,4 @@ for _ in range(20):
 
 ok nice. one full word at end
 ## thank you !
+
