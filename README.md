@@ -513,7 +513,7 @@ split_loss('val')
     val 3.5626847743988037
     
 
-terrible loss but fine for now
+overfitting observed, but fine since primary goal is to demonstrate the character-level language model concept, not to achieve performance on this specific dataset
 
 
 ```python
@@ -561,4 +561,5 @@ for _ in range(20):
 
 ok nice. one full word at end
 ## thank you !
+
 
